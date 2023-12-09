@@ -1,0 +1,14 @@
+a{
+    font-size: 35px;
+}
+body{
+    background-color:bisque;
+}
+a:hover{
+    color: aqua;
+    font-size: 40px;
+    background-color: black;
+}
+a{
+    text-decoration: none;
+}

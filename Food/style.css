@@ -1,0 +1,22 @@
+body{
+    background-color: bisque;
+}
+a{
+    font-size: 35px;
+}
+h1{
+    text-align: center;
+    background-color:cadetblue;
+}
+a:hover{
+    color: aqua;
+    font-size: 40px;
+    background-color: black;
+}
+h1:hover{
+    color: aqua;
+    background-color: rgb(0, 0, 0);
+}
+a{
+    text-decoration: none;
+}
